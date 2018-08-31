@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="RomanNumbersConversionTest" project="Roman Conv" tests="4" started="4" failures="0" errors="0" ignored="0">
+  <testsuite name="roman.RomanNumbersConversionTest" time="0.0">
+    <testcase name="testReturn47" classname="roman.RomanNumbersConversionTest" time="0.0"/>
+    <testcase name="testReturn99" classname="roman.RomanNumbersConversionTest" time="0.0"/>
+    <testcase name="testReturn1990" classname="roman.RomanNumbersConversionTest" time="0.0"/>
+    <testcase name="testReturn2008" classname="roman.RomanNumbersConversionTest" time="0.0"/>
+  </testsuite>
+</testrun>
